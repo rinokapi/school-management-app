@@ -18,3 +18,5 @@ Tools used in this project
 - Bootstrap
 - Chart.js
 - Ubuntu/Linux
+
+Apache VirtualHost configuration > conf/school-site.conf
