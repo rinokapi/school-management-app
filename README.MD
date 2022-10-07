@@ -6,7 +6,7 @@ App used to manage student data (add, remove, edit, and statistics)
 
 App preview (_gif image below_)
 
-![App demo](./assets/preview/)
+![App demo](./assets/preview/appView.png)
 
 ## 🔨 Tools
 
